@@ -1,0 +1,8 @@
+numpy
+pandas
+yfinance
+fyers_api
+python-dateutil
+requests
+flask
+pytz
